@@ -4,3 +4,4 @@ When you've worked with data enough, you see the same problems pop up with certa
 
 * [Etherpad from the session](https://festival.etherpad.mozilla.org/ZJqeTRYxuyB)
 * [Journalists Guide to Datasets](https://github.com/ryanpitts/journalists-guide-datasets/)
+* [Logical Fallacy Example Directory](https://yourlogicalfallacyis.com/)
