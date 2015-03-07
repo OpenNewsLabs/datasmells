@@ -7,5 +7,6 @@ When you've worked with data enough, you see the same problems pop up with certa
 
 ## Resources
 * [Etherpad from the session - NICAR 2015](https://etherpad.mozilla.org/nicar-datasmells)
+* [Datasmells Reference Project](https://github.com/nikeiubel/data-smells/wiki/Ensuring-Accuracy-in-Data-Journalism)
 * [Journalists Guide to Datasets](https://github.com/ryanpitts/journalists-guide-datasets/)
 * [Logical Fallacy Example Directory](https://yourlogicalfallacyis.com/)
